@@ -14,4 +14,4 @@ A simple web application that generates random quotes and allows users to copy a
 
 ## 🌍 Live Demo
 🔗 [Click here to see the live demo]
-([https://your-app-name.netlify.app](https://randomquote-eight.vercel.app/))
+([https://randomquote-eight.vercel.app/])
